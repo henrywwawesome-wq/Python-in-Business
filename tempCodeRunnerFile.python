@@ -1,2 +1,3 @@
 print("Hello World!")
 testing = input("Yo user input something!\n")
+testing2 = input("Yo user input something!\n")
